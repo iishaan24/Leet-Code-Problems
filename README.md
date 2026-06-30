@@ -7,6 +7,7 @@ Hello everyone, Here i am solving the Leet code problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iishaan24/Leet-Code-Problems/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/iishaan24/Leet-Code-Problems/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ Hello everyone, Here i am solving the Leet code problems.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/iishaan24/Leet-Code-Problems/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/iishaan24/Leet-Code-Problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
