@@ -26,4 +26,8 @@ Hello everyone, Here i am solving the Leet code problems.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/iishaan24/Leet-Code-Problems/tree/master/0035-search-insert-position) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/iishaan24/Leet-Code-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
